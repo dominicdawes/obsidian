@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Utils/Hubs/Chrome Extension.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "367b3f9155f2a2f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Do.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "To Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "To Do.md"
               }
             }
           }
@@ -146,10 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fd7712447df5a14",
+  "active": "367b3f9155f2a2f6",
   "lastOpenFiles": [
+    "Utils/Hubs/Chrome Extension.md",
+    "To Do.md",
+    "Pasted Assets/Pasted image 20240906110524.png",
+    "Pasted Assets/Pasted image 20240906114658.png",
+    "Pasted Assets/Pasted image 20240906113451.png",
+    "Pasted Assets/Pasted image 20240906113310.png",
+    "Penn GRASP Lab Seminar.md",
     "Pasted image 20240906114658.png",
-    "Untitled.md",
     "Welcome.md"
   ]
 }

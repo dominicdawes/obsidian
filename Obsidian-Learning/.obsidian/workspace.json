@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grad School/PhD Project Ideas & Areas.md",
+                "file": "Background Concepts/Matrix Rank Explained.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grad School/PhD Project Ideas & Areas.md",
+                "file": "Background Concepts/Matrix Rank Explained.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grad School/PhD Project Ideas & Areas.md",
+                "file": "Background Concepts/Matrix Rank Explained.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grad School/PhD Project Ideas & Areas.md"
+                "file": "Background Concepts/Matrix Rank Explained.md"
               }
             }
           }
@@ -150,7 +150,7 @@
   "lastOpenFiles": [
     "Grad School/Untitled.md",
     "Grad School/PhD Project Ideas & Areas.md",
-    "Background Concepts/Matrix Rank Explained.md",
+    "Grad School/Penn GRASP Lab Seminar.md",
     "Grad School",
     "utils/Authors/Zuozhuo Dai.md",
     "utils/Authors/Zichen Tian.md",
