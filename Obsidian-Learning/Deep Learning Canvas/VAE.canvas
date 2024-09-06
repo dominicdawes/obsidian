@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8db19c344b8639ac","type":"file","file":"Canvas Elements/Encoder.md","x":-680,"y":-240,"width":400,"height":400},
+		{"id":"787d004f12a40ea9","type":"file","file":"Canvas Elements/Decoder.md","x":200,"y":-240,"width":400,"height":400},
+		{"id":"7f72224adf983e1c","type":"file","file":"Canvas Elements/Latent Space.md","x":-140,"y":-160,"width":240,"height":240}
+	],
+	"edges":[
+		{"id":"46d7bc1e51abe14c","fromNode":"8db19c344b8639ac","fromSide":"right","toNode":"7f72224adf983e1c","toSide":"left"},
+		{"id":"861f480582a37e48","fromNode":"7f72224adf983e1c","fromSide":"right","toNode":"787d004f12a40ea9","toSide":"left"}
+	]
+}

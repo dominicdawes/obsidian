@@ -1,0 +1,1 @@
+this MLP (aka a feed forward network) is a simple building block in modern DNNs

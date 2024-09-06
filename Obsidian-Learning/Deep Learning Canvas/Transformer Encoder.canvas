@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"fb6641e303ce0b63","type":"group","x":-640,"y":-560,"width":720,"height":895,"label":"Transformer Encoder"},
+		{"id":"0738997a5e7b8402","type":"file","file":"Canvas Elements/MLP Head.md","x":40,"y":-840,"width":204,"height":141},
+		{"id":"d71069a54add8330","type":"file","file":"Canvas Elements/add_512.png","x":-310,"y":-60,"width":50,"height":50},
+		{"id":"6082f3e6e270558c","type":"file","file":"Canvas Elements/Multi-Head Attention.md","x":-485,"y":40,"width":400,"height":120},
+		{"id":"2a94e6fd2338f4da","type":"file","file":"Canvas Elements/Norm Layer.md","x":-415,"y":220,"width":260,"height":95},
+		{"id":"eb01b3c917411fc6","type":"file","file":"Canvas Elements/MLP Layer.md","x":-439,"y":-440,"width":307,"height":152},
+		{"id":"759c36adc339d33d","type":"file","file":"Canvas Elements/add_512.png","x":-310,"y":-540,"width":50,"height":50},
+		{"id":"1a962269865dfc7a","type":"file","file":"Canvas Elements/Norm Layer.md","x":-415,"y":-200,"width":260,"height":95},
+		{"id":"6b9c7f14bec68ea2","type":"file","file":"Canvas Elements/Embedded Image Patches.md","x":-465,"y":440,"width":360,"height":180}
+	],
+	"edges":[
+		{"id":"7e7a0efdd6664a1f","fromNode":"2a94e6fd2338f4da","fromSide":"top","toNode":"6082f3e6e270558c","toSide":"bottom"},
+		{"id":"ab763d82b4cb1b00","fromNode":"6082f3e6e270558c","fromSide":"top","toNode":"d71069a54add8330","toSide":"bottom"},
+		{"id":"4d72481947fbb3ae","fromNode":"d71069a54add8330","fromSide":"top","toNode":"1a962269865dfc7a","toSide":"bottom"},
+		{"id":"c6e5a29614f32230","fromNode":"1a962269865dfc7a","fromSide":"top","toNode":"eb01b3c917411fc6","toSide":"bottom"},
+		{"id":"169ae126de1afd18","fromNode":"eb01b3c917411fc6","fromSide":"top","toNode":"759c36adc339d33d","toSide":"bottom"},
+		{"id":"feb1f8f643d6a3c5","fromNode":"6b9c7f14bec68ea2","fromSide":"right","toNode":"d71069a54add8330","toSide":"right"},
+		{"id":"cc65e05ac08220c1","fromNode":"d71069a54add8330","fromSide":"left","toNode":"759c36adc339d33d","toSide":"left"},
+		{"id":"2e025e8dcef1b009","fromNode":"6b9c7f14bec68ea2","fromSide":"top","toNode":"2a94e6fd2338f4da","toSide":"bottom"},
+		{"id":"d3111591e8dac737","fromNode":"759c36adc339d33d","fromSide":"top","toNode":"0738997a5e7b8402","toSide":"left"}
+	]
+}

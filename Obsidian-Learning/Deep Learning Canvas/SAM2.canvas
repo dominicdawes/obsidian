@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"f76d3845b5c58d3a","type":"group","x":-642,"y":-1334,"width":440,"height":1038,"label":"Heira Encoder"},
+		{"id":"76c43317b02220cf","type":"text","text":"**Rotational Positional Encoding**\nsine-cosine (RoPE)","x":-1040,"y":-217,"width":390,"height":100},
+		{"id":"2ffa6c08bdd34c53","type":"file","file":"Canvas Elements/add_512.png","x":-447,"y":-1314,"width":50,"height":50},
+		{"id":"ae95098c5ecd6008","type":"file","file":"Canvas Elements/MLP Layer.md","x":-622,"y":-1194,"width":400,"height":136},
+		{"id":"74f3457ef6c1cff3","type":"file","file":"Canvas Elements/Norm Layer.md","x":-622,"y":-954,"width":400,"height":118},
+		{"id":"2092673708e78d60","type":"file","file":"Canvas Elements/Multi-Head Attention.md","x":-622,"y":-634,"width":400,"height":111},
+		{"id":"994cce7a403b2a25","type":"file","file":"Canvas Elements/Norm Layer.md","x":-622,"y":-434,"width":400,"height":118},
+		{"id":"d605849570a797e5","type":"file","file":"Canvas Elements/add_512.png","x":-447,"y":-192,"width":50,"height":50},
+		{"id":"7c6d7b7c4c1c3abf","type":"file","file":"Canvas Elements/Linear Projection + CLS Token.md","x":-657,"y":0,"width":470,"height":460},
+		{"id":"93d4c17322cd35c4","type":"file","file":"Canvas Elements/Image Patches.md","x":-622,"y":500,"width":400,"height":240},
+		{"id":"b5a5703ce40bd1ab","type":"file","file":"Canvas Elements/add_512.png","x":-447,"y":-754,"width":50,"height":50},
+		{"id":"04f4fdca554f1602","type":"file","file":"Canvas Elements/Memory Action.md","x":40,"y":-1314,"width":400,"height":400},
+		{"id":"dc16f22f4cd48eae","type":"file","file":"Canvas Elements/Mask Decoder.md","x":40,"y":-834,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"ea10ca4691025db6","fromNode":"76c43317b02220cf","fromSide":"right","toNode":"d605849570a797e5","toSide":"left"},
+		{"id":"6045eda9bc007a09","fromNode":"7c6d7b7c4c1c3abf","fromSide":"top","toNode":"d605849570a797e5","toSide":"bottom"},
+		{"id":"1a4879fa1adcff12","fromNode":"93d4c17322cd35c4","fromSide":"top","toNode":"7c6d7b7c4c1c3abf","toSide":"bottom"},
+		{"id":"ad97a70ffbca8cd8","fromNode":"d605849570a797e5","fromSide":"top","toNode":"994cce7a403b2a25","toSide":"bottom"},
+		{"id":"413e3f33af0a4631","fromNode":"994cce7a403b2a25","fromSide":"top","toNode":"2092673708e78d60","toSide":"bottom"},
+		{"id":"a084a6c112d08d29","fromNode":"2092673708e78d60","fromSide":"top","toNode":"b5a5703ce40bd1ab","toSide":"bottom"},
+		{"id":"24e3b085a0ac1282","fromNode":"b5a5703ce40bd1ab","fromSide":"top","toNode":"74f3457ef6c1cff3","toSide":"bottom"},
+		{"id":"75732914a7590cf9","fromNode":"74f3457ef6c1cff3","fromSide":"top","toNode":"ae95098c5ecd6008","toSide":"bottom"},
+		{"id":"39e15a63a3b15963","fromNode":"ae95098c5ecd6008","fromSide":"top","toNode":"2ffa6c08bdd34c53","toSide":"bottom"},
+		{"id":"c9470b361ac5de87","fromNode":"2ffa6c08bdd34c53","fromSide":"top","toNode":"04f4fdca554f1602","toSide":"top"}
+	]
+}

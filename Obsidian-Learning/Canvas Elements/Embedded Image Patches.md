@@ -1,0 +1,1 @@
+Image sliced into NxN patches typically (4x4=16 from the Facebook ViT Paper)

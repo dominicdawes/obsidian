@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "5d52e42b26d6117c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c60d75fc2da1f97c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fd7712447df5a14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Background Concepts/Matrix Rank Explained.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd4f4a9c5d9515de",
+    "type": "split",
+    "children": [
+      {
+        "id": "73bddf880f508950",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "667b7894f58ef36e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff0eb9ee15db4e77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46df170014879eb1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71aa635ce94fd374",
+    "type": "split",
+    "children": [
+      {
+        "id": "5522102a7ca5b259",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "281dd14254c44e9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Background Concepts/Matrix Rank Explained.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf853b420437bc93",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Background Concepts/Matrix Rank Explained.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee514711b7483480",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f699b5f1107b178",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Background Concepts/Matrix Rank Explained.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1fd7712447df5a14",
+  "lastOpenFiles": [
+    "utils/Authors/Zuozhuo Dai.md",
+    "utils/Authors/Zichen Tian.md",
+    "utils/Authors/Zhaozheng Chen.md",
+    "utils/Authors/Xiaodong Gu.md",
+    "utils/Authors/Weihao Yuan.md",
+    "utils/Authors/Vitor Guizilini.md",
+    "utils/Authors/Sudeep Pillai.md",
+    "utils/Authors/Sonal Gupta.md",
+    "utils/Authors/Siyu Zhu.md",
+    "utils/Authors/Robin Rombach.md",
+    "utils/Authors/Rares Ambrus.md",
+    "utils/Authors/Qianru Sun.md",
+    "utils/Authors/Ping Tan.md",
+    "utils/Authors/Pieter Abbeel.md",
+    "utils/Authors/Peter Qian.md",
+    "utils/Authors/Peter Chen.md",
+    "utils/Authors/Luke Zettlemoyer.md",
+    "utils/Authors/Lithe Yang.md",
+    "utils/Authors/Jonathan Ho.md",
+    "utils/Authors/Edward Hu.md",
+    "utils/Authors/Daniel Adelberg.md",
+    "utils/Authors/Armen Aghajanyan.md",
+    "utils/Authors/Andrew Sohn.md",
+    "utils/Authors/Allan Raventos.md",
+    "utils/Authors/Ajay Jain.md",
+    "utils/Authors/Adrien Gaidon.md",
+    "utils/Authors",
+    "utils/New folder",
+    "utils/Tags",
+    "Background Concepts",
+    "New folder",
+    "Deep Learning Canvas/SAM2.canvas",
+    "Deep Learning Canvas/Transformer Encoder.canvas",
+    "Deep Learning Canvas/VAE.canvas",
+    "Canvas Elements/add_512.png",
+    "utils/Pasted Assets/Pasted image encoder.png",
+    "utils/Pasted Assets/Pasted image decoder.png",
+    "utils/Pasted Assets/Pasted image 20240905165855.png",
+    "utils/Pasted Assets/Pasted image 20240904152740.png",
+    "utils/Pasted Assets/Pasted image 20240904130049.png",
+    "utils/Pasted Assets/Pasted image 20240904113338.png",
+    "Pasted Assets/Pasted image 20240903170810.png",
+    "utils/Pasted Assets/Pasted image 20240903151717.png",
+    "utils/Pasted Assets/Pasted image 20240903135606.png"
+  ]
+}
