@@ -1,4 +1,10 @@
 
+### Dr. Vijay Kumar
+Focus area:
+#### Notable Projects
+* UAS Autonomy in crowded spaces
+![[Pasted image 20240906114658.png]]
+
 ### Dr. Eric Eaton
 Focus area:
 #### Notable Projects
