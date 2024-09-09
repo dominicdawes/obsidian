@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1fd7712447df5a14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utils/Hubs/Chrome Extension.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "367b3f9155f2a2f6",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 243.5
   },
   "right": {
     "id": "71aa635ce94fd374",
@@ -161,12 +148,19 @@
   },
   "active": "367b3f9155f2a2f6",
   "lastOpenFiles": [
-    "Utils/Hubs/Chrome Extension.md",
-    "To Do.md",
-    "Pasted Assets/Pasted image 20240906110524.png",
     "Pasted Assets/Pasted image 20240906114658.png",
     "Pasted Assets/Pasted image 20240906113451.png",
     "Pasted Assets/Pasted image 20240906113310.png",
+    "Pasted Assets/Pasted image 20240906111952.png",
+    "Pasted Assets/Pasted image 20240906110524.png",
+    "To Do.md",
+    "Utils/Hubs/UAV.md",
+    "Utils/Hubs/UKF.md",
+    "Utils/Hubs/Study.md",
+    "Utils/Hubs/Productivity.md",
+    "Utils/Hubs/Law Enforcement.md",
+    "Utils/Hubs/Kanban Board.md",
+    "Utils/Hubs/Chrome Extension.md",
     "Penn GRASP Lab Seminar.md",
     "Pasted image 20240906114658.png",
     "Welcome.md"
