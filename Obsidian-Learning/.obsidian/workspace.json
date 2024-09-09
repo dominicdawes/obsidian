@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Background Concepts/Matrix Rank Explained.md",
+                "file": "Grad School/Qualification and Courses.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Background Concepts/Matrix Rank Explained.md",
+                "file": "Grad School/Qualification and Courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Background Concepts/Matrix Rank Explained.md",
+                "file": "Grad School/Qualification and Courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Background Concepts/Matrix Rank Explained.md"
+                "file": "Grad School/Qualification and Courses.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   "active": "1fd7712447df5a14",
   "lastOpenFiles": [
     "Grad School/Untitled.md",
+    "Grad School/Qualification and Courses.md",
+    "Background Concepts/Matrix Rank Explained.md",
     "Grad School/PhD Project Ideas & Areas.md",
     "Grad School/Penn GRASP Lab Seminar.md",
     "Grad School",
@@ -173,8 +175,6 @@
     "utils/Authors/Jonathan Ho.md",
     "utils/Authors/Edward Hu.md",
     "utils/Authors/Daniel Adelberg.md",
-    "utils/Authors/Armen Aghajanyan.md",
-    "utils/Authors/Andrew Sohn.md",
     "utils/Authors",
     "utils/New folder",
     "utils/Tags",
