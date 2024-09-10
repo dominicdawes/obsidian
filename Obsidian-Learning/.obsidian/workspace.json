@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d1cd71a612de26f8",
+        "id": "d0bfbfd8f535c0bf",
         "type": "tabs",
         "children": [
           {
-            "id": "293d9c05c00326ec",
+            "id": "7c7568e9fe9e1a5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning (APL)/3 - CFD-Based Policy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8dcf81803c2d79dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reinforcement Learning (APL)/Implementation (Homework).md",
+                "file": "Grad School/Qualification and Courses.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning (APL)/Implementation (Homework).md",
+                "file": "Grad School/Qualification and Courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning (APL)/Implementation (Homework).md",
+                "file": "Grad School/Qualification and Courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning (APL)/Implementation (Homework).md"
+                "file": "Grad School/Qualification and Courses.md"
               }
             }
           }
@@ -159,24 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8dcf81803c2d79dc",
+  "active": "7c7568e9fe9e1a5b",
   "lastOpenFiles": [
-    "Reinforcement Learning (APL)/Use Case - HVAC Efficienty.md",
+    "Grad School/UMD ECE PhD Oral Technical Exam.md",
+    "Grad School/Untitled.md",
+    "Grad School/PhD Project Ideas & Areas.md",
+    "Explaining AI/UMAP.md",
+    "Deep Learning Papers/PackNet-SfM - 3D Packing for Self-Supervised Monocular Depth Estimation.md",
+    "Deep Learning Papers/RFM-1 - Giving robots human-like reasoning capabilities.md",
+    "Explaining AI/Class Activation Maps (CAM).md",
+    "Grad School/Qualification and Courses.md",
+    "Deep Learning Papers/Depth Anything V2 Paper.md",
+    "Grad School/Penn GRASP Lab Seminar.md",
+    "Utils/Pasted Assets/Pasted image 20240909172824.png",
+    "Reinforcement Learning (APL)/3 - CFD-Based Policy.md",
+    "Utils/Pasted Assets/Pasted image 20240909162051.png",
     "Reinforcement Learning (APL)/Implementation (Homework).md",
+    "Reinforcement Learning (APL)/Use Case - HVAC Efficienty.md",
     "Reinforcement Learning (APL)/Off-Policy Learning.md",
     "Reinforcement Learning (APL)/Evaluation Methods & Results.md",
-    "Reinforcement Learning (APL)/3 - CFD-Based Policy.md",
     "Reinforcement Learning (APL)/1 - Class Intro.md",
     "Reinforcement Learning (APL)/2 - Examples of Q.md",
-    "Pasted image 20240909172824.png",
-    "Pasted image 20240909165157.png",
-    "Pasted image 20240909163442.png",
-    "Pasted image 20240909162051.png",
-    "Grad School/Qualification and Courses.md",
+    "Utils/Pasted Assets/Pasted image 20240909165157.png",
+    "Utils/Pasted Assets/Pasted image 20240909163442.png",
     "Reinforcement Learning (APL)",
-    "Grad School/Penn GRASP Lab Seminar.md",
-    "Grad School/PhD Project Ideas & Areas.md",
-    "Grad School/Untitled.md",
     "Background Concepts/Matrix Rank Explained.md",
     "Utils/Pasted Assets/Pasted image 20240830133919.png",
     "Grad School",
@@ -188,12 +181,6 @@
     "Utils/Authors/Vitor Guizilini.md",
     "Utils/Authors/Sudeep Pillai.md",
     "Utils/Authors/Sonal Gupta.md",
-    "Utils/Authors/Siyu Zhu.md",
-    "Utils/Authors/Robin Rombach.md",
-    "Utils/Authors/Rares Ambrus.md",
-    "Utils/Authors/Qianru Sun.md",
-    "Utils/Authors/Ping Tan.md",
-    "Utils/Authors/Pieter Abbeel.md",
     "Utils/Authors",
     "utils/New folder",
     "Utils/Tags",
