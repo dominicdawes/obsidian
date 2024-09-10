@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "444ce12d6085c4f9",
+        "id": "d1cd71a612de26f8",
         "type": "tabs",
         "children": [
           {
-            "id": "7ab9546758bda013",
+            "id": "293d9c05c00326ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grad School/Penn GRASP Lab Seminar.md",
+                "file": "Reinforcement Learning (APL)/3 - CFD-Based Policy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8dcf81803c2d79dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reinforcement Learning (APL)/Implementation (Homework).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grad School/Penn GRASP Lab Seminar.md",
+                "file": "Reinforcement Learning (APL)/Implementation (Homework).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grad School/Penn GRASP Lab Seminar.md",
+                "file": "Reinforcement Learning (APL)/Implementation (Homework).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grad School/Penn GRASP Lab Seminar.md"
+                "file": "Reinforcement Learning (APL)/Implementation (Homework).md"
               }
             }
           }
@@ -146,12 +159,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ab9546758bda013",
+  "active": "8dcf81803c2d79dc",
   "lastOpenFiles": [
+    "Reinforcement Learning (APL)/Use Case - HVAC Efficienty.md",
+    "Reinforcement Learning (APL)/Implementation (Homework).md",
+    "Reinforcement Learning (APL)/Off-Policy Learning.md",
+    "Reinforcement Learning (APL)/Evaluation Methods & Results.md",
+    "Reinforcement Learning (APL)/3 - CFD-Based Policy.md",
+    "Reinforcement Learning (APL)/1 - Class Intro.md",
+    "Reinforcement Learning (APL)/2 - Examples of Q.md",
+    "Pasted image 20240909172824.png",
+    "Pasted image 20240909165157.png",
+    "Pasted image 20240909163442.png",
+    "Pasted image 20240909162051.png",
     "Grad School/Qualification and Courses.md",
+    "Reinforcement Learning (APL)",
+    "Grad School/Penn GRASP Lab Seminar.md",
     "Grad School/PhD Project Ideas & Areas.md",
     "Grad School/Untitled.md",
-    "Grad School/Penn GRASP Lab Seminar.md",
     "Background Concepts/Matrix Rank Explained.md",
     "Utils/Pasted Assets/Pasted image 20240830133919.png",
     "Grad School",
@@ -169,13 +194,6 @@
     "Utils/Authors/Qianru Sun.md",
     "Utils/Authors/Ping Tan.md",
     "Utils/Authors/Pieter Abbeel.md",
-    "Utils/Authors/Peter Qian.md",
-    "Utils/Authors/Peter Chen.md",
-    "Utils/Authors/Luke Zettlemoyer.md",
-    "Utils/Authors/Lithe Yang.md",
-    "Utils/Authors/Jonathan Ho.md",
-    "Utils/Authors/Edward Hu.md",
-    "Utils/Authors/Daniel Adelberg.md",
     "Utils/Authors",
     "utils/New folder",
     "Utils/Tags",
@@ -188,10 +206,6 @@
     "Utils/Pasted Assets/Pasted image encoder.png",
     "Utils/Pasted Assets/Pasted image decoder.png",
     "Utils/Pasted Assets/Pasted image 20240905165855.png",
-    "Utils/Pasted Assets/Pasted image 20240904152740.png",
-    "Utils/Pasted Assets/Pasted image 20240904130049.png",
-    "Utils/Pasted Assets/Pasted image 20240904113338.png",
-    "Pasted Assets/Pasted image 20240903170810.png",
-    "Utils/Pasted Assets/Pasted image 20240903151717.png"
+    "Utils/Pasted Assets/Pasted image 20240904152740.png"
   ]
 }
