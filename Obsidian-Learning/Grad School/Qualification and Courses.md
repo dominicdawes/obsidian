@@ -204,5 +204,26 @@ There are currently eight areas:
 - Algorithms and Computation Theory
 - Visual and Geometric Computing
 
-### George Mason
+### UMBC ECE
 
+content...
+
+### UMBC CS
+
+content...
+
+### George Mason ECE
+
+content...
+
+### George Mason CS
+
+content...
+
+### Penn ESE
+
+content...
+
+### Penn CIS
+
+content...
