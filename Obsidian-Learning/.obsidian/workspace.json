@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c7568e9fe9e1a5b",
+            "id": "4f54fa1285471568",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grad School/Untitled.md",
+                "file": "Explaining AI/Attention in Layman's Terms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grad School/Untitled.md",
+                "file": "Explaining AI/Attention in Layman's Terms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grad School/Untitled.md",
+                "file": "Explaining AI/Attention in Layman's Terms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grad School/Untitled.md"
+                "file": "Explaining AI/Attention in Layman's Terms.md"
               }
             }
           }
@@ -146,13 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c7568e9fe9e1a5b",
+  "active": "4f54fa1285471568",
   "lastOpenFiles": [
+    "Pasted image 20240912173456.png",
+    "Pasted image 20240912171442.png",
+    "Pasted image 20240912171345.png",
+    "Pasted image 20240912171340.png",
+    "Pasted image 20240912133027.png",
+    "Controls/PX4 Controller.md",
+    "Grad School/Untitled.md",
+    "Explaining AI/Attention in Layman's Terms.md",
+    "Controls",
+    "Pasted image 20240911142020.png",
+    "Pasted image 20240911140018.png",
+    "Pasted image 20240911135709.png",
+    "Pcl Data Processing & DL.md",
+    "Pasted image 20240911133928.png",
     "Grad School/PhD Project Ideas & Areas.md",
     "Grad School/Penn GRASP Lab Seminar.md",
     "Grad School/Qualification and Courses.md",
     "Grad School/UMD ECE PhD Oral Technical Exam.md",
-    "Grad School/Untitled.md",
     "Explaining AI/UMAP.md",
     "Deep Learning Papers/PackNet-SfM - 3D Packing for Self-Supervised Monocular Depth Estimation.md",
     "Deep Learning Papers/RFM-1 - Giving robots human-like reasoning capabilities.md",
@@ -167,20 +180,13 @@
     "Reinforcement Learning (APL)/Evaluation Methods & Results.md",
     "Reinforcement Learning (APL)/1 - Class Intro.md",
     "Reinforcement Learning (APL)/2 - Examples of Q.md",
-    "Utils/Pasted Assets/Pasted image 20240909165157.png",
-    "Utils/Pasted Assets/Pasted image 20240909163442.png",
     "Reinforcement Learning (APL)",
     "Background Concepts/Matrix Rank Explained.md",
-    "Utils/Pasted Assets/Pasted image 20240830133919.png",
     "Grad School",
     "Utils/Authors/Zuozhuo Dai.md",
     "Utils/Authors/Zichen Tian.md",
     "Utils/Authors/Zhaozheng Chen.md",
     "Utils/Authors/Xiaodong Gu.md",
-    "Utils/Authors/Weihao Yuan.md",
-    "Utils/Authors/Vitor Guizilini.md",
-    "Utils/Authors/Sudeep Pillai.md",
-    "Utils/Authors/Sonal Gupta.md",
     "Utils/Authors",
     "utils/New folder",
     "Utils/Tags",
@@ -188,11 +194,6 @@
     "New folder",
     "Deep Learning Canvas/SAM2.canvas",
     "Deep Learning Canvas/Transformer Encoder.canvas",
-    "Deep Learning Canvas/VAE.canvas",
-    "Canvas Elements/add_512.png",
-    "Utils/Pasted Assets/Pasted image encoder.png",
-    "Utils/Pasted Assets/Pasted image decoder.png",
-    "Utils/Pasted Assets/Pasted image 20240905165855.png",
-    "Utils/Pasted Assets/Pasted image 20240904152740.png"
+    "Deep Learning Canvas/VAE.canvas"
   ]
 }
