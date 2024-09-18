@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Explaining AI/Attention in Layman's Terms.md",
+                "file": "Grad School/UMD Clubs.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 200
   },
   "right": {
     "id": "71aa635ce94fd374",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Explaining AI/Attention in Layman's Terms.md",
+                "file": "Grad School/UMD Clubs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Explaining AI/Attention in Layman's Terms.md",
+                "file": "Grad School/UMD Clubs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Explaining AI/Attention in Layman's Terms.md"
+                "file": "Grad School/UMD Clubs.md"
               }
             }
           }
@@ -148,52 +148,53 @@
   },
   "active": "4f54fa1285471568",
   "lastOpenFiles": [
+    "Grad School/UMD Labs and PIs.md",
+    "Grad School/UMD ECE PhD Oral Technical Exam.md",
+    "Grad School/UMD Clubs.md",
+    "Grad School/Untitled.md",
+    "Grad School/Penn GRASP Lab Seminar.md",
+    "Python/Python Common Stuff.md",
+    "Grad School/PhD Project Ideas & Areas.md",
+    "Python",
+    "Reinforcement Learning (APL)/Diffusion Policy.md",
+    "Reinforcement Learning (APL)/Evaluation Methods & Results.md",
+    "Reinforcement Learning (APL)/Implementation (Homework).md",
+    "Reinforcement Learning (APL)/Off-Policy Learning.md",
+    "Reinforcement Learning (APL)/Use Case - HVAC Efficienty.md",
+    "Reinforcement Learning (APL)/02 - Lecture - Imitation Learning.md",
+    "Reinforcement Learning (APL)/02 - Lecture - DRL.md",
+    "Reinforcement Learning (APL)/01 - Lecture - Intro to RL.md",
+    "Reinforcement Learning (APL)/01 - Lecture - CFD-Based Policy.md",
+    "Reinforcement Learning (APL)/01 - Examples of Q.md",
+    "Reinforcement Learning (APL)/00 - Bio Break.md",
+    "Deep Learning Canvas/Transformer Encoder.canvas",
+    "Deep Learning Canvas/SAM2.canvas",
+    "Controls/PX4 Controller.md",
+    "Pasted image 20240913100648.png",
+    "Explaining AI/Attention in Layman's Terms.md",
     "Pasted image 20240912173456.png",
     "Pasted image 20240912171442.png",
     "Pasted image 20240912171345.png",
     "Pasted image 20240912171340.png",
     "Pasted image 20240912133027.png",
-    "Controls/PX4 Controller.md",
-    "Grad School/Untitled.md",
-    "Explaining AI/Attention in Layman's Terms.md",
     "Controls",
     "Pasted image 20240911142020.png",
     "Pasted image 20240911140018.png",
     "Pasted image 20240911135709.png",
     "Pcl Data Processing & DL.md",
     "Pasted image 20240911133928.png",
-    "Grad School/PhD Project Ideas & Areas.md",
-    "Grad School/Penn GRASP Lab Seminar.md",
     "Grad School/Qualification and Courses.md",
-    "Grad School/UMD ECE PhD Oral Technical Exam.md",
     "Explaining AI/UMAP.md",
     "Deep Learning Papers/PackNet-SfM - 3D Packing for Self-Supervised Monocular Depth Estimation.md",
     "Deep Learning Papers/RFM-1 - Giving robots human-like reasoning capabilities.md",
     "Explaining AI/Class Activation Maps (CAM).md",
-    "Deep Learning Papers/Depth Anything V2 Paper.md",
-    "Utils/Pasted Assets/Pasted image 20240909172824.png",
-    "Reinforcement Learning (APL)/3 - CFD-Based Policy.md",
-    "Utils/Pasted Assets/Pasted image 20240909162051.png",
-    "Reinforcement Learning (APL)/Implementation (Homework).md",
-    "Reinforcement Learning (APL)/Use Case - HVAC Efficienty.md",
-    "Reinforcement Learning (APL)/Off-Policy Learning.md",
-    "Reinforcement Learning (APL)/Evaluation Methods & Results.md",
-    "Reinforcement Learning (APL)/1 - Class Intro.md",
-    "Reinforcement Learning (APL)/2 - Examples of Q.md",
     "Reinforcement Learning (APL)",
-    "Background Concepts/Matrix Rank Explained.md",
     "Grad School",
-    "Utils/Authors/Zuozhuo Dai.md",
-    "Utils/Authors/Zichen Tian.md",
-    "Utils/Authors/Zhaozheng Chen.md",
-    "Utils/Authors/Xiaodong Gu.md",
     "Utils/Authors",
     "utils/New folder",
     "Utils/Tags",
     "Background Concepts",
     "New folder",
-    "Deep Learning Canvas/SAM2.canvas",
-    "Deep Learning Canvas/Transformer Encoder.canvas",
     "Deep Learning Canvas/VAE.canvas"
   ]
 }
