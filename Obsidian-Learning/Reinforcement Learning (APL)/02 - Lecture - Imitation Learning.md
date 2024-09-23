@@ -1,6 +1,6 @@
 
 
-$\pi$ is the network itself
+$\pi$ is the policy ($\pi_{\theta}$ is the policy parametrized by NN theta)
 - outputs can be categorical or continuous sampled variables
 
 ```
@@ -10,7 +10,7 @@ observation --> { Policy Model } --> Action
 note: policy model is run on frames or sensor data at K Hz
 
 State vs Observation
-s_t vs o_t
+$s_t$ vs $o_t$
 
 Partially Observed Markov Decision Process (POMDP)
 * $p(s_n | s_n-1, a_n-1)$
