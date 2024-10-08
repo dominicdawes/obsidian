@@ -1,8 +1,7 @@
-
+Lecture 3 Part 2
 
 Discount factor & observability
 - role: use in agent forgetting over time
-
 
 
 REINFORCE Algorithm

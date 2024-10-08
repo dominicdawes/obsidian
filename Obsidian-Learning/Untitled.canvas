@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"a41c6b8e79e08709","x":-300,"y":-380,"width":250,"height":190,"type":"text","text":"Added user context:\n- grade level/detail\n- focus areas\n- user-generated preferences"},
+		{"id":"e80e34e595335be0","x":-255,"y":-540,"width":160,"height":120,"type":"text","text":"Upload PDF"},
+		{"id":"58d2f495cb64b443","x":64,"y":-510,"width":250,"height":60,"type":"text","text":"Extracted text from complex sources"},
+		{"id":"09451a81e1476b5f","x":-2,"y":232,"width":502,"height":388,"type":"text","text":"Dialoge object:\n - where the llm outputs a json dict of dialog, where the speaker voice is determined by the key in the dict\n```\n[ \n\t{\"speaker\": \"speaker-1\", \"text\": \"In basketball, the main way to score... \"},\n\t{\"speaker\": \"speaker-2\", \"text\": \"Right, and you can... \"}, \n\t{\"speaker\": \"speaker-2\", \"text\": \"For instance a two-point shot... \"}, \n]\n```"},
+		{"id":"ea3bc10a9f96c96d","x":124,"y":20,"width":250,"height":60,"type":"text","text":"GPT-4"},
+		{"id":"559ea37237e771ba","x":123,"y":754,"width":250,"height":60,"type":"text","text":"TTS Model with a few default voices"},
+		{"id":"7291e977e7dc49ce","x":123,"y":900,"width":250,"height":60,"type":"text","text":"Save to mp3"},
+		{"id":"d471f6fe1f4c932e","x":520,"y":74,"width":320,"height":406,"type":"text","text":"Interruption \nneeds a known spporx timestamp for re-entry into the dialoge\n\n1. record user new input\n2. process and have openAI give an explanatory answer\n3. give that to user\n4. use a canned transition phase ['so continuing with...]\n5. stitch together the transition and the remaining dialog and play for the user\n\n\n(intermediate feature) could be a podcast paused button that is triggered upon user query"}
+	],
+	"edges":[
+		{"id":"24bd61f29d09f7a0","fromNode":"e80e34e595335be0","fromSide":"right","toNode":"58d2f495cb64b443","toSide":"left","label":"OCR"},
+		{"id":"0cfedb004d621964","fromNode":"a41c6b8e79e08709","fromSide":"right","toNode":"ea3bc10a9f96c96d","toSide":"top"},
+		{"id":"0d3f3440de41d5cb","fromNode":"58d2f495cb64b443","fromSide":"right","toNode":"ea3bc10a9f96c96d","toSide":"top"},
+		{"id":"f11ac2dd707524c7","fromNode":"ea3bc10a9f96c96d","fromSide":"bottom","toNode":"09451a81e1476b5f","toSide":"top"},
+		{"id":"19881356e340bb72","fromNode":"09451a81e1476b5f","fromSide":"bottom","toNode":"559ea37237e771ba","toSide":"top","label":"for lines in dialogue_list"},
+		{"id":"897acf3426e8add3","fromNode":"559ea37237e771ba","fromSide":"bottom","toNode":"7291e977e7dc49ce","toSide":"top"}
+	]
+}

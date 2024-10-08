@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "23566c55b4f1cdd7",
+        "id": "c69c610b1232db06",
         "type": "tabs",
         "children": [
           {
-            "id": "7eb2c15d096591cc",
+            "id": "a05becd3000ba7c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning (APL)/03 - Lecture - Markov Decision Processes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4955e53c5ee1a42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reinforcement Learning (APL)/Class Projects.md",
+                "file": "Reinforcement Learning (APL)/05 - Lecture Adv AC Algos.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5110321044922
+    "width": 216.51103591918945
   },
   "right": {
     "id": "71aa635ce94fd374",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning (APL)/03 - Lecture - Markov Decision Processes.md",
+                "file": "Reinforcement Learning (APL)/05 - Lecture Adv AC Algos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning (APL)/03 - Lecture - Markov Decision Processes.md",
+                "file": "Reinforcement Learning (APL)/05 - Lecture Adv AC Algos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning (APL)/03 - Lecture - Markov Decision Processes.md"
+                "file": "Reinforcement Learning (APL)/05 - Lecture Adv AC Algos.md"
               }
             }
           }
@@ -158,55 +146,57 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7eb2c15d096591cc",
+  "active": "a05becd3000ba7c7",
   "lastOpenFiles": [
-    "Reinforcement Learning (APL)/Class Projects.md",
-    "Reinforcement Learning (APL)/03 - Gradient Ascent Math.md",
+    "Reinforcement Learning (APL)/00 - Bio Break.md",
+    "Reinforcement Learning (APL)/Homework/Homework 1.md",
+    "Reinforcement Learning (APL)/04 - Lecture Policy Grad & AC Part 1.md",
+    "Reinforcement Learning (APL)/05 - Lecture Adv AC Algos.md",
+    "Deep Learning Papers/High-Resolution Image Synthesis with Latent Diffusion Models (LDMs).md",
+    "Reinforcement Learning (APL)/04 - Lecture Policy Grad & AC Part 2.md",
     "Reinforcement Learning (APL)/03 - Lecture - Markov Decision Processes.md",
+    "Utils/Pasted Assets/Pasted image 20241007153811.png",
+    "Utils/Pasted Assets/Pasted image 20241007153808.png",
+    "Reinforcement Learning (APL)/Class Projects.md",
+    "Utils/Pasted Assets/Pasted image 20241007152938.png",
+    "Reinforcement Learning (APL)/02 - Lecture - DRL.md",
+    "Reinforcement Learning (APL)/Off-Policy Learning.md",
+    "Reinforcement Learning (APL)/Use Case - HVAC Efficienty.md",
+    "Reinforcement Learning (APL)/Evaluation Methods & Results.md",
+    "Reinforcement Learning (APL)/Homework",
+    "Explaining AI/Time in RL.md",
+    "Reinforcement Learning (APL)/03 - Gradient Ascent Math.md",
+    "Reinforcement Learning (APL)/02 - Lecture - Imitation Learning.md",
+    "Utils/Pasted Assets/Pasted image 20240930173309.png",
+    "Utils/Pasted Assets/Pasted image 20240930173301.png",
+    "Untitled.canvas",
+    "Utils/Pasted Assets/Pasted image 20240930171813.png",
+    "Utils/Pasted Assets/Pasted image 20240930171755.png",
+    "Utils/Pasted Assets/Pasted image 20240930170219.png",
+    "Utils/Pasted Assets/Pasted image 20240930165833.png",
+    "Utils/Pasted Assets/Pasted image 20240930165610.png",
+    "Utils/Templates/Lecture Template.md",
+    "Utils/Templates",
+    "Deep Learning Papers/Denoising Diffusion Probabilistic Models (DDPM).md",
+    "Python/Python Built-in - Exec.md",
     "Reinforcement Learning (APL)/Diffusion Policy.md",
     "Reinforcement Learning (APL)/01 - Lecture - Intro to RL.md",
-    "Reinforcement Learning (APL)/02 - Lecture - DRL.md",
     "Reinforcement Learning (APL)/01 - Lecture - CFD-Based Policy.md",
     "Reinforcement Learning (APL)/01 - Examples of Q.md",
-    "Reinforcement Learning (APL)/00 - Bio Break.md",
-    "Reinforcement Learning (APL)/02 - Lecture - Imitation Learning.md",
     "Explaining AI/CLIP.md",
     "Multimodal Models.md",
     "Utils/Tags/OpenAI.md",
     "Controls/PX4 Controller.md",
-    "Python/Python Common Stuff.md",
-    "Grad School/Untitled.md",
-    "Grad School/UMD Labs and PIs.md",
-    "Grad School/UMD ECE PhD Oral Technical Exam.md",
-    "Grad School/UMD Clubs.md",
-    "Grad School/Qualification and Courses.md",
-    "Grad School/PhD Project Ideas & Areas.md",
-    "Background Concepts/PCL Data Processing & DL.md",
-    "Utils/Pasted Assets/Pasted image 20240911133928.png",
-    "Utils/Pasted Assets/Pasted image 20240913100648.png",
-    "Grad School/Penn GRASP Lab Seminar.md",
     "Python",
-    "Reinforcement Learning (APL)/Evaluation Methods & Results.md",
-    "Reinforcement Learning (APL)/Implementation (Homework).md",
-    "Reinforcement Learning (APL)/Off-Policy Learning.md",
     "Deep Learning Canvas/Transformer Encoder.canvas",
     "Deep Learning Canvas/SAM2.canvas",
-    "Utils/Pasted Assets/Pasted image 20240912173456.png",
-    "Utils/Pasted Assets/Pasted image 20240912171442.png",
-    "Utils/Pasted Assets/Pasted image 20240912171345.png",
-    "Utils/Pasted Assets/Pasted image 20240912171340.png",
-    "Utils/Pasted Assets/Pasted image 20240912133027.png",
     "Controls",
-    "Utils/Pasted Assets/Pasted image 20240911142020.png",
-    "Utils/Pasted Assets/Pasted image 20240911140018.png",
-    "Utils/Pasted Assets/Pasted image 20240911135709.png",
     "Reinforcement Learning (APL)",
     "Grad School",
     "Utils/Authors",
     "utils/New folder",
     "Utils/Tags",
     "Background Concepts",
-    "New folder",
     "Deep Learning Canvas/VAE.canvas"
   ]
 }
