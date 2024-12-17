@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "c69c610b1232db06",
+        "id": "9269dc64751e2047",
         "type": "tabs",
         "children": [
           {
-            "id": "a05becd3000ba7c7",
+            "id": "88da4012ad22c3a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning (APL)/05 - Lecture Adv AC Algos.md",
+                "file": "Reinforcement Learning (APL)/10 - Lecture - Advanced Topics Part 1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "10 - Lecture - Advanced Topics Part 1"
+            }
+          },
+          {
+            "id": "2b5ab566de641b0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stripe & WeWeb.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stripe & WeWeb"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +83,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 216.51103591918945
+    "width": 200
   },
   "right": {
     "id": "71aa635ce94fd374",
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning (APL)/05 - Lecture Adv AC Algos.md",
+                "file": "Reinforcement Learning (APL)/Formula Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Formula Cheatsheet"
             }
           },
           {
@@ -102,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning (APL)/05 - Lecture Adv AC Algos.md",
+                "file": "Reinforcement Learning (APL)/Formula Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Formula Cheatsheet"
             }
           },
           {
@@ -116,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning (APL)/05 - Lecture Adv AC Algos.md"
-              }
+                "file": "Reinforcement Learning (APL)/Formula Cheatsheet.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Formula Cheatsheet"
             }
           }
         ]
@@ -146,47 +177,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a05becd3000ba7c7",
+  "active": "2b5ab566de641b0e",
   "lastOpenFiles": [
-    "Reinforcement Learning (APL)/00 - Bio Break.md",
-    "Reinforcement Learning (APL)/Homework/Homework 1.md",
-    "Reinforcement Learning (APL)/04 - Lecture Policy Grad & AC Part 1.md",
-    "Reinforcement Learning (APL)/05 - Lecture Adv AC Algos.md",
-    "Deep Learning Papers/High-Resolution Image Synthesis with Latent Diffusion Models (LDMs).md",
-    "Reinforcement Learning (APL)/04 - Lecture Policy Grad & AC Part 2.md",
-    "Reinforcement Learning (APL)/03 - Lecture - Markov Decision Processes.md",
-    "Utils/Pasted Assets/Pasted image 20241007153811.png",
-    "Utils/Pasted Assets/Pasted image 20241007153808.png",
-    "Reinforcement Learning (APL)/Class Projects.md",
-    "Utils/Pasted Assets/Pasted image 20241007152938.png",
-    "Reinforcement Learning (APL)/02 - Lecture - DRL.md",
-    "Reinforcement Learning (APL)/Off-Policy Learning.md",
+    "Utils/Pasted Assets/Pasted image 20241217120052.png",
+    "Utils/Pasted Assets/Pasted image 20241217115535.png",
+    "Reinforcement Learning (APL)/10 - Lecture - Advanced Topics Part 1.md",
+    "Stripe & WeWeb.md",
+    "Utils/Pasted Assets/Pasted image 20241118174228.png",
+    "Utils/Pasted Assets/Pasted image 20241118173058.png",
+    "Utils/Pasted Assets/Pasted image 20241118172911.png",
+    "Utils/Pasted Assets/Pasted image 20241118171956.png",
     "Reinforcement Learning (APL)/Use Case - HVAC Efficienty.md",
+    "Reinforcement Learning (APL)/Off-Policy Learning.md",
+    "Reinforcement Learning (APL)/Implementation (Homework).md",
+    "Reinforcement Learning (APL)/Formula Cheatsheet.md",
+    "Reinforcement Learning (APL)/06 - Lecture - Q-Learning.md",
+    "Reinforcement Learning (APL)/07 - Lecture - Part 1.md",
+    "Reinforcement Learning (APL)/05 - Lecture Adv AC Algos.md",
+    "Reinforcement Learning (APL)/04 - Lecture - Part 2 - Policy Grad & AC.md",
+    "Reinforcement Learning (APL)/09 - Lecture - Part 1 - Unsure.md",
+    "incomplete.md",
     "Reinforcement Learning (APL)/Evaluation Methods & Results.md",
-    "Reinforcement Learning (APL)/Homework",
-    "Explaining AI/Time in RL.md",
-    "Reinforcement Learning (APL)/03 - Gradient Ascent Math.md",
-    "Reinforcement Learning (APL)/02 - Lecture - Imitation Learning.md",
-    "Utils/Pasted Assets/Pasted image 20240930173309.png",
-    "Utils/Pasted Assets/Pasted image 20240930173301.png",
-    "Untitled.canvas",
-    "Utils/Pasted Assets/Pasted image 20240930171813.png",
-    "Utils/Pasted Assets/Pasted image 20240930171755.png",
-    "Utils/Pasted Assets/Pasted image 20240930170219.png",
-    "Utils/Pasted Assets/Pasted image 20240930165833.png",
-    "Utils/Pasted Assets/Pasted image 20240930165610.png",
-    "Utils/Templates/Lecture Template.md",
-    "Utils/Templates",
-    "Deep Learning Papers/Denoising Diffusion Probabilistic Models (DDPM).md",
-    "Python/Python Built-in - Exec.md",
+    "Reinforcement Learning (APL)/02 - Lecture - Part 1 - Imitation Learning.md",
+    "Reinforcement Learning (APL)/02 - Lecture - Part 2 - DRL.md",
+    "Reinforcement Learning (APL)/03 - Lecture - Part 1 Markov Decision Processes.md",
+    "Reinforcement Learning (APL)/03 - Lecture - Part 2 - Gradient Ascent Math.md",
+    "Reinforcement Learning (APL)/04 - Lecture - Part 1 - Policy Grad & AC.md",
+    "Reinforcement Learning (APL)/08 - Lecture - Part 1 - Model Based ML.md",
+    "Utils/Pasted Assets/Pasted image 20241118165507.png",
+    "Reinforcement Learning (APL)/00 - Bio Break.md",
+    "Utils/Pasted Assets/Pasted image 20241118162035.png",
+    "Grad School/UMBC.md",
+    "Utils/Pasted Assets/Pasted image 20241107164035.png",
+    "Grad School/Untitled.md",
     "Reinforcement Learning (APL)/Diffusion Policy.md",
-    "Reinforcement Learning (APL)/01 - Lecture - Intro to RL.md",
-    "Reinforcement Learning (APL)/01 - Lecture - CFD-Based Policy.md",
-    "Reinforcement Learning (APL)/01 - Examples of Q.md",
-    "Explaining AI/CLIP.md",
     "Multimodal Models.md",
-    "Utils/Tags/OpenAI.md",
-    "Controls/PX4 Controller.md",
+    "Untitled.canvas",
+    "Image Fusion from Static Mount.md",
+    "Utils/Pasted Assets/UTF thermal data collect dims.png",
+    "Utils/Pasted Assets/UTF thermal data collect FOV and focal len.png",
+    "Reinforcement Learning (APL)/Project",
+    "WeWeb",
+    "FF",
+    "Reinforcement Learning (APL)/Homework",
+    "Utils/Templates",
     "Python",
     "Deep Learning Canvas/Transformer Encoder.canvas",
     "Deep Learning Canvas/SAM2.canvas",
@@ -194,9 +228,6 @@
     "Reinforcement Learning (APL)",
     "Grad School",
     "Utils/Authors",
-    "utils/New folder",
-    "Utils/Tags",
-    "Background Concepts",
     "Deep Learning Canvas/VAE.canvas"
   ]
 }

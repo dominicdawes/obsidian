@@ -1,5 +1,4 @@
 
-
 $\pi$ is the policy ($\pi_{\theta}$ is the policy parametrized by NN theta)
 - outputs can be categorical or continuous sampled variables
 
@@ -51,12 +50,12 @@ Pitfalls of DAgger
 - Can suffer from not understanding causality (brake light example) 
 	- Causal confusion in imitation learning (2019)
 #### Mitigation (to 2+ "best cases"):
-Goal: give it sufficuently expresivly policy gradient to handle lots of cases
+Goal: give it a sufficiently expressively policy gradient to handle lots of cases
  - mixed gaussians instead of single gaussian(unimodal modeling)
  - Latent variable model
  - Using diffusion models to model a policy
 
-#### Using diffusion Model Policy
+#### Using Diffusion Model Policy
 - add noise and a model learns the reverse to denoise an image 
 - In RL this noise is actions. thus the policy model learns how to imitate learning by learning the sequence of actions to arrive at the denoised result (i.e the correct action)
 	- paper see [[Diffusion Policy]] (columbia edu)
@@ -75,9 +74,8 @@ Steps in process ("learning from playing")
 3. treat random goal as successful
 4. Use those examples as new training data
 
-
 Limitations of IL
 - need for lots of human experts, costly
 - where there is not expert human
-- Not autonomus enough, human-in-the-loop
+- Not autonomous enough, human-in-the-loop
 

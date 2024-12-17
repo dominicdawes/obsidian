@@ -20,9 +20,10 @@ Gradient of the cumulative reward $J(\theta)$
 
 #### Causality
 - The policy at some time $t'$ cannot affect rewards (summation) at time $t$ if $t<t'$ (in other words  current events can't impact past rewards $R(t)$ )
-- Shrink the reward function bounds from ($\Sigma_{i}^{T}$) ---> ($\Sigma_{now}^{T}$) can yield a confused agent
+- Shrink the reward function bounds from ($\sum_{i}^{T} \to \sum_{now}^{T}$) can yield a confused agent
 
 ![[Pasted image 20241007153811.png]]
+
 #### Baselines
 - Purpose essentially "zero-means" the reward function
 - Where b is a constant and does not change the Expectation E 
@@ -53,7 +54,7 @@ Math behind A
 
 #### MC Evaluation & Bootstrapping
 
-- MC Target  y = \Sigma r(s, a)\
+- MC Target  $y = \sum r(s, a)$
 - Ideal Target: ...
 
 - the approximation of the "ideal target" is $y \approx r(s, a)+V(s_{t+1})$ this is biased however over several timesteps t the solution still converges, and is lower variance
@@ -66,7 +67,7 @@ Math behind A
 
 ---
 
-Terminology
+## Terminology
 
 ![[Pasted image 20240930165610.png]]
 

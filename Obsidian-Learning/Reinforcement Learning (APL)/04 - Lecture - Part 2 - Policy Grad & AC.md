@@ -1,5 +1,4 @@
-Date:
-
+[[incomplete]]
 ## Discount Factor
 
 ### Time Horizons
@@ -8,10 +7,10 @@ finite time horizon
 
 Infinite
 - Walking forward robot
-- Episodes dont end in a known number of timesteps
+- Episodes don't end in a known number of timesteps
 
 ### Discount factor $\gamma$
-- as t --> \inf , V gets infinitely large
+- as $t --> \inf$ , V gets infinitely large
 - usually $\gamma = [0.95 - 0.99]$
 - $\gamma$ determines how much weight is given to future rewards. A higher $\gamma$ means future rewards are valued more, while a lower $\gamma$ means they are valued less. 
 - it de-emphasizes the uncertainty of future events
@@ -58,7 +57,7 @@ online AC only relies on the
 
 **Actor**: $\pi$  - brains/decision making of the agent
 **Critic**: V - is an evaluation metric of the performance of the agent's policy
-\
+
 **How is the policy (\pi) evaluated?**
 - Via the value network (a NN) where the inputs are the state vector at a certain time $s_t$ and the output is a probability distribution of the desired action to take.
 	- Categorical Action Space

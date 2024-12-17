@@ -11,15 +11,15 @@ partial observation (dependent on o only)
 
 **DRL wrt Markovian Processes**
 - Introduction of the reward $r_t$ at each timestep t
-- Reward is dispersed over time so as not to have a greedy agent (max r every time t)
+- Reward is dispersed over time so as not to have a greedy agent ($max[r]$ every time t)
 
 Markov Decision Process MDP 
 Introduces an action node. 
-the state s_{t+1} depends on a_t and s_t
+the state $s_{t+1}$ depends on $a_t$ and $s_t$
 
 Partially Observable Markov Decision Process POMDPs
-- State s_t gives rise to observation o_t
-- Introduction of policy $\pi_{\theta}$ is the probability distribution that governs the transition probability between $a_t -> o_t$
+- State $s_t$ gives rise to observation $o_t$
+- Introduction of policy $\pi_{\theta}$ is the probability distribution that governs the transition probability between $a_t \to o_t$
 
 ## Policy, Value, and Quality
 
@@ -46,7 +46,7 @@ What is $V$; Value Function
 Total expected future reward given a state $s_t$
 
 Relationship b/t Q and V
-$V\pi(s_t) = E_{a_t\sim \pi(a_t|s_t)}[Q(s_t,a_t)]$
+$V\pi(s_t) = \mathbb{E}_{a_t\sim \pi(a_t|s_t)}[Q(s_t,a_t)]$
 
 
 ### Use of Q and V in DRL
@@ -70,8 +70,8 @@ Run policy --> Estimate the return --> Improve policy --> (repeat)
 - Examples: Deep Q Learning
 
 **Actor-Critic:** Learning the policy that leverages Q and V to more accurately estimate a policy gradient $\nabla J({\theta})$ 
-- Advantage function: A = Q(s_t, a_t) - V(s_t)
--  $\nabla J({\theta}) = \Sigma\Sigma log * A(t)$
+- Advantage function: $A = Q(s_t, a_t) - V(s_t)$
+-  $\nabla J({\theta}) = \sum\sum log * A(t)$
 - Examples: Soft Actor Critic, Async Advantage Actor-Critic
 
 **Model based (distinct from the other 3):** learn parameterized representation of a state transition model (T) and used this matrix T for action planning of $\pi$ improvement 

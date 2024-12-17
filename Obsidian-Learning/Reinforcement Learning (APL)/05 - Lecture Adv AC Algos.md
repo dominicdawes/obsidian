@@ -1,4 +1,4 @@
-
+[[incomplete]]
 
 PROJECTS ARE DUE TODAY !!
 
@@ -11,17 +11,18 @@ Sampling data from replay buffer?
 
 ## Recap
 
-MC evaluation with NN
-Bootstrapping 
+Monte Carlo (MC) Evaluation with NN
+...
+
+**Bootstrapping** 
 - Instead of waiting for the entire episode, it uses a **value estimate** of the next state. This estimate is based on previous knowledge or calculations.
-- instead of sum of rewards, bootstrapping uses value estimate  + only the reward at the current time $t$
+- Instead of sum of rewards, bootstrapping uses value estimate  + only the reward at the current time $t$
 - $V(s_t) = R_t + γ * V(s_{t+1})$
 
 ## Tracing n-steps
 
 Traces are useful strategy
 however if too many steps are taken the variance between paths blows up, thus small time steps are taken b/t bootstrapping steps to reduce variance
-
 
 
 ## Parallelization
@@ -46,10 +47,11 @@ off policy learning
 > 
 	$A(s, a) = Q(s, a) - V(s)$
 
-#### What does argmax(A) mean?
+#### What does $argmax(A)$ mean?
 - Compare the objectives at the time t and t' to the find the \theta prime that has the max A(s, a) this is written as:
 
 	$J(\theta') - J(\theta)$
+
 ## Advanced Policy Gradient Methods
 
 ### Trust Region Policy Optimization (TRPO)
