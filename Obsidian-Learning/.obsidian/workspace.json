@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning (APL)/10 - Lecture - Advanced Topics Part 1.md",
+                "file": "VS Code on Windows/Conda not found.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Lecture - Advanced Topics Part 1"
-            }
-          },
-          {
-            "id": "2b5ab566de641b0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stripe & WeWeb.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stripe & WeWeb"
+              "title": "Conda not found"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -177,12 +163,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b5ab566de641b0e",
+  "active": "88da4012ad22c3a8",
   "lastOpenFiles": [
+    "Utils/Pasted Assets/Pasted image 20250312141820.png",
+    "Utils/Pasted Assets/Pasted image 20250312141547.png",
+    "Utils/Pasted Assets/Pasted image 20250312141519.png",
+    "Utils/Pasted Assets/Pasted image 20250312141153.png",
+    "Reinforcement Learning (APL)/10 - Lecture - Advanced Topics Part 1.md",
+    "VS Code on Windows/Conda not found.md",
+    "VS Code on Windows",
+    "Reinforcement Learning (APL)/04 - Lecture - Part 2 - Policy Grad & AC.md",
+    "Reinforcement Learning (APL)/05 - Lecture Adv AC Algos.md",
+    "Reinforcement Learning (APL)/04 - Lecture - Part 1 - Policy Grad & AC.md",
+    "Reinforcement Learning (APL)/03 - Lecture - Part 2 - Gradient Ascent Math.md",
+    "Reinforcement Learning (APL)/03 - Lecture - Part 1 Markov Decision Processes.md",
+    "Reinforcement Learning (APL)/02 - Lecture - Part 2 - DRL.md",
+    "Reinforcement Learning (APL)/01 - Lecture - CFD-Based Policy.md",
+    "Stripe & WeWeb.md",
     "Utils/Pasted Assets/Pasted image 20241217120052.png",
     "Utils/Pasted Assets/Pasted image 20241217115535.png",
-    "Reinforcement Learning (APL)/10 - Lecture - Advanced Topics Part 1.md",
-    "Stripe & WeWeb.md",
     "Utils/Pasted Assets/Pasted image 20241118174228.png",
     "Utils/Pasted Assets/Pasted image 20241118173058.png",
     "Utils/Pasted Assets/Pasted image 20241118172911.png",
@@ -193,29 +192,17 @@
     "Reinforcement Learning (APL)/Formula Cheatsheet.md",
     "Reinforcement Learning (APL)/06 - Lecture - Q-Learning.md",
     "Reinforcement Learning (APL)/07 - Lecture - Part 1.md",
-    "Reinforcement Learning (APL)/05 - Lecture Adv AC Algos.md",
-    "Reinforcement Learning (APL)/04 - Lecture - Part 2 - Policy Grad & AC.md",
     "Reinforcement Learning (APL)/09 - Lecture - Part 1 - Unsure.md",
     "incomplete.md",
     "Reinforcement Learning (APL)/Evaluation Methods & Results.md",
     "Reinforcement Learning (APL)/02 - Lecture - Part 1 - Imitation Learning.md",
-    "Reinforcement Learning (APL)/02 - Lecture - Part 2 - DRL.md",
-    "Reinforcement Learning (APL)/03 - Lecture - Part 1 Markov Decision Processes.md",
-    "Reinforcement Learning (APL)/03 - Lecture - Part 2 - Gradient Ascent Math.md",
-    "Reinforcement Learning (APL)/04 - Lecture - Part 1 - Policy Grad & AC.md",
     "Reinforcement Learning (APL)/08 - Lecture - Part 1 - Model Based ML.md",
     "Utils/Pasted Assets/Pasted image 20241118165507.png",
     "Reinforcement Learning (APL)/00 - Bio Break.md",
-    "Utils/Pasted Assets/Pasted image 20241118162035.png",
     "Grad School/UMBC.md",
-    "Utils/Pasted Assets/Pasted image 20241107164035.png",
     "Grad School/Untitled.md",
     "Reinforcement Learning (APL)/Diffusion Policy.md",
-    "Multimodal Models.md",
     "Untitled.canvas",
-    "Image Fusion from Static Mount.md",
-    "Utils/Pasted Assets/UTF thermal data collect dims.png",
-    "Utils/Pasted Assets/UTF thermal data collect FOV and focal len.png",
     "Reinforcement Learning (APL)/Project",
     "WeWeb",
     "FF",
@@ -227,7 +214,6 @@
     "Controls",
     "Reinforcement Learning (APL)",
     "Grad School",
-    "Utils/Authors",
     "Deep Learning Canvas/VAE.canvas"
   ]
 }
