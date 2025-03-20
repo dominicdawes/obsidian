@@ -46,45 +46,36 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "ff0eb9ee15db4e77",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search",
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "46df170014879eb1",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks",
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
             }
           }
         ]
+      },
+      {
+        "id": "ff0eb9ee15db4e77",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "46df170014879eb1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
       }
     ],
     "direction": "horizontal",
@@ -114,8 +105,6 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Formula Cheatsheet",
-              "icon": "links-coming-in",
               "title": "Backlinks for UMD Labs and PIs"
             }
           },
@@ -141,9 +130,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
               },
               "icon": "lucide-tags",
               "title": "Tags"
