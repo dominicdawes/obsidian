@@ -21,7 +21,8 @@
               "title": "Conda not found"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -45,6 +46,11 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -61,6 +67,8 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
+              "title": "Search",
+              "icon": "lucide-search",
               "title": "Search"
             }
           },
@@ -70,6 +78,8 @@
             "state": {
               "type": "bookmarks",
               "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks",
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -104,7 +114,9 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Formula Cheatsheet"
+              "title": "Backlinks for Formula Cheatsheet",
+              "icon": "links-coming-in",
+              "title": "Backlinks for UMD Labs and PIs"
             }
           },
           {
@@ -129,6 +141,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
               },
               "icon": "lucide-tags",
               "title": "Tags"

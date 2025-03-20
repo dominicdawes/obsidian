@@ -16,7 +16,7 @@ MRC Lab Search: [Facilities & Lab Search | Maryland Robotics Center (umd.edu)](h
 [RAAS Lab at UMD](https://raaslab.org/)
 - **PI:** Dr. S. Farhad Taheri,  [Pratap Tokekar](https://robotics.umd.edu/clark/faculty/1267)
 - **Focus:** Designing algorithms and building systems for autonomous robots to operate in complex environments:
-	- Multi-Robot Systems
+	- Multi-Robot Systems !!
 	- Unmanned Aerial Vehicles
 	- Cyber-Physical Systems
 	- Resilient Planning in Adversarial Environments
@@ -40,6 +40,7 @@ MRC Lab Search: [Facilities & Lab Search | Maryland Robotics Center (umd.edu)](h
 ### **Geometric Algorithms for Modeling and Motion Animations (GAMMA)**
 [GAMMA (umd.edu)](https://gamma.umd.edu/)
  **PI:** Dinesh Manocha ([Google Scholar](https://scholar.google.com/citations?hl=en&user=X08l_4IAAAAJ))
+ Ming LLI
 - **Focus:** Design and implementation of algebraic, geometric, and scientific algorithms and their applications to computer graphics, robotics, virtual environments, CAD/CAM, acoustics, pedestrian dynamics, and medical simulation. Some recent work includes combining these methods with machine learning, computer vision and physically-based modeling for Autonomous Driving, Affective Computing and Reconstructing Reality.
 - **Examples:** 
 	- Daeun Song (Socially Aware Robot Navigation through Scoring Using Vision-Language Models
@@ -105,8 +106,6 @@ MRC Lab Search: [Facilities & Lab Search | Maryland Robotics Center (umd.edu)](h
 https://cfar.umd.edu/cvl
 - **Principal Investigator(s):** [Cornelia Fermüller](https://robotics.umd.edu/clark/faculty/1168)
 - **Research Inquiries:** CVL Director Yiannis Aloimonos, [mailto:yiannis@umiacs.umd.edu](mailto:yiannis@umiacs.umd.edu)
-
-
 
 
 ### Maryland Robotics Center (MRC)
